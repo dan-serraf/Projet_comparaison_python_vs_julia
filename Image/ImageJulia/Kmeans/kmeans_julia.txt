@@ -1,0 +1,4 @@
+temps_acc mean -> 0.7533333333333334
+temps_acc std -> 0.28867513459481287
+temps_time mean -> 0.7349999745686849
+temps_time std -> 0.503163003945254
